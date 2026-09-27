@@ -1,61 +1,25 @@
 # OptmizeImage
 
-> Free online image compression and optimization tools for compressing, resizing, and converting images while maintaining good visual quality.
+> Free online image compression and optimization tools for compressing, resizing, and converting images.
 
-OptmizeImage is a browser-based image optimization platform that helps users reduce image file sizes, compress JPG and PNG images, resize images, convert JPG to WebP, and compress images to specific file-size targets such as 100KB, 200KB, and 500KB.
+OptmizeImage is a browser-based image optimization platform that helps users reduce image file sizes, compress JPG and PNG images, resize images, convert JPG to WebP, and compress images to approximately 100KB, 200KB, and 500KB.
 
-## Tools
-
-* [OptmizeImage Image Compressor](https://www.optmizeimage.com/) — Free online image compression and optimization tool.
+* [Image Compressor](https://www.optmizeimage.com/) — Free online image compression and optimization tool.
 * [Compress JPG](https://www.optmizeimage.com/tools/compress-jpg.html) — Compress JPG/JPEG images online.
 * [Compress PNG](https://www.optmizeimage.com/tools/compress-png.html) — Compress PNG images online.
 * [Resize Image](https://www.optmizeimage.com/tools/resize-image.html) — Resize images to specific dimensions.
 * [JPG to WebP](https://www.optmizeimage.com/tools/jpg-to-webp.html) — Convert JPG images to WebP format.
-* [Compress Image to 100KB](https://www.optmizeimage.com/tools/compress-to-100kb.html) — Compress an image to approximately 100KB.
-* [Compress Image to 200KB](https://www.optmizeimage.com/tools/compress-to-200kb.html) — Compress an image to approximately 200KB.
-* [Compress Image to 500KB](https://www.optmizeimage.com/tools/compress-to-500kb.html) — Compress an image to approximately 500KB.
-
-## Guides
-
-* [Compress Image Without Losing Quality](https://www.optmizeimage.com/learn/compress-image-without-losing-quality.html) — Guide to reducing image file size while preserving image quality.
-* [JPG vs WebP](https://www.optmizeimage.com/learn/jpg-vs-webp.html) — Comparison of JPG and WebP image formats.
-* [Compress Image to 100KB](https://www.optmizeimage.com/learn/compress-image-to-100kb.html) — Guide to reducing images to approximately 100KB.
-* [Reduce Image Size for Website](https://www.optmizeimage.com/learn/reduce-image-size-for-website.html) — Guide to reducing image file size for websites.
-* [WebP vs AVIF](https://www.optmizeimage.com/learn/webp-vs-avif.html) — Comparison of WebP and AVIF image formats.
-* [Image Compression and Core Web Vitals](https://www.optmizeimage.com/learn/image-compression-core-web-vitals.html) — How image optimization can affect website performance and Core Web Vitals.
-* [Best Image Dimensions for Websites](https://www.optmizeimage.com/learn/best-image-dimensions-for-websites.html) — Guide to choosing appropriate image dimensions for websites.
-* [SEO-Friendly Image Alt Text](https://www.optmizeimage.com/learn/seo-friendly-image-alt-text.html) — Guide to writing descriptive and SEO-friendly image alt text.
-
-## About
-
-* [About OptmizeImage](https://www.optmizeimage.com/about) — Information about OptmizeImage and its image optimization tools.
-* [Contact](https://www.optmizeimage.com/contact) — Contact page.
-* [Privacy Policy](https://www.optmizeimage.com/privacy.html) — Privacy information and data-handling practices.
-
-## Capabilities
-
-OptmizeImage provides tools for:
-
-* Image compression
-* JPG/JPEG compression
-* PNG compression
-* Image resizing
-* JPG to WebP conversion
-* Compression to approximately 100KB
-* Compression to approximately 200KB
-* Compression to approximately 500KB
-* Website image optimization
-* Image file-size reduction
-* Image format optimization
-
-## Website Performance
-
-Image optimization can help reduce page weight and may contribute to faster page loading and improved web performance. Image compression should be balanced with visual quality and the requirements of the target use case.
-
-## Privacy and Processing
-
-Users should refer to the OptmizeImage privacy policy for current information about how image processing and user data are handled.
-
-## Primary Website
-
-https://www.optmizeimage.com/
+* [Compress Image to 100KB](https://www.optmizeimage.com/tools/compress-to-100kb.html) — Compress images to approximately 100KB.
+* [Compress Image to 200KB](https://www.optmizeimage.com/tools/compress-to-200kb.html) — Compress images to approximately 200KB.
+* [Compress Image to 500KB](https://www.optmizeimage.com/tools/compress-to-500kb.html) — Compress images to approximately 500KB.
+* [Compress Image Without Losing Quality](https://www.optmizeimage.com/learn/compress-image-without-losing-quality.html) — Guide to reducing image size while preserving quality.
+* [JPG vs WebP](https://www.optmizeimage.com/learn/jpg-vs-webp.html) — Comparison of JPG and WebP.
+* [Compress Image to 100KB Guide](https://www.optmizeimage.com/learn/compress-image-to-100kb.html) — Guide to compressing images to approximately 100KB.
+* [Reduce Image Size for Website](https://www.optmizeimage.com/learn/reduce-image-size-for-website.html) — Guide to reducing image size for websites.
+* [WebP vs AVIF](https://www.optmizeimage.com/learn/webp-vs-avif.html) — Comparison of WebP and AVIF.
+* [Image Compression and Core Web Vitals](https://www.optmizeimage.com/learn/image-compression-core-web-vitals.html) — Image optimization and website performance.
+* [Best Image Dimensions for Websites](https://www.optmizeimage.com/learn/best-image-dimensions-for-websites.html) — Recommended image dimensions for websites.
+* [SEO-Friendly Image Alt Text](https://www.optmizeimage.com/learn/seo-friendly-image-alt-text.html) — Guide to writing descriptive image alt text.
+* [About OptmizeImage](https://www.optmizeimage.com/about) — Information about OptmizeImage.
+* [Contact](https://www.optmizeimage.com/contact) — Contact OptmizeImage.
+* [Privacy Policy](https://www.optmizeimage.com/privacy.html) — OptmizeImage privacy information.
